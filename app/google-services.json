@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412570754849",
+    "project_id": "placewell-dc7c5",
+    "storage_bucket": "placewell-dc7c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412570754849:android:83c34983049f844d672860",
+        "android_client_info": {
+          "package_name": "com.example.placewell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA953R0pgAVCggEmLlRlaJHSiF-plxwNxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
